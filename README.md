@@ -1,4 +1,5 @@
 # GBC_27
+> 한동대학교 전산보안동아리 GHOST(Global Handong Oriented Secure Team) 신입 기수 프로젝트
 
 ## 1주차_ 네트워크
 ### 시스코 네트워킹 1, 2
