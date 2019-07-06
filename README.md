@@ -5,11 +5,17 @@
 >  이론 및 자료 정리
 -  시스코 네트워킹 1, 2
 
-    [Network1] 네트워크와 케이블, TCP/IP, 네트워크 장비
+    [Network1] 
+    
+        네트워크와 케이블, TCP/IP, 네트워크 장비
   
-    [Network2] 라우터, 라우팅, NAT
+    [Network2] 
+    
+        라우터, 라우팅, NAT
   
-    [Network3] 네트워킹, 무선 통신
+    [Network3] 
+    
+        네트워킹, 무선 통신
   
 -  TCP/IP 소켓 프로그래밍
 
@@ -55,11 +61,27 @@
 
 ## 3주차_ 알고리즘
 > 알고리즘 자료 조사
-  - PA1 : STL, Time complexity
-  - PA2 : Longest Increasing Subsequence
-  - PA3 : Dynamic Programming
-  - PA4 : Depth First Search
-  - PA5 : Breadth First Search, Binary Search
+  [PA1]
+        
+        STL, Time complexity
+        
+  [PA2]
+        
+        Longest Increasing Subsequence
+        
+  [PA3]
+        
+        Dynamic Programming
+        
+  [PA4]
+        
+        Depth First Search
+        
+        
+        Depth First Search
+  [PA5]
+        
+        Breadth First Search, Binary Search
 
 > 백준 문제
   - 소스 코드 : https://github.com/chy0428/algo_ha0.git
