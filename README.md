@@ -63,20 +63,14 @@
 > 알고리즘 자료 조사
   [PA1]
         
-        STL, Time complexity
-        
+        STL, Time complexity     
   [PA2]
         
         Longest Increasing Subsequence
-        
   [PA3]
         
         Dynamic Programming
-        
   [PA4]
-        
-        Depth First Search
-        
         
         Depth First Search
   [PA5]
